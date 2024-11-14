@@ -1,0 +1,9 @@
+patient,sample,lane,fastq_1,fastq_2
+idMT,s1,L001,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/MT_S1_L001_R1_001.fastq.gz,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/MT_S1_L001_R2_001.fastq.gz
+idBC,s2,L001,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/BC_S2_L001_R1_001.fastq.gz,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/BC_S2_L001_R2_001.fastq.gz
+idKASUMI,s3,L001,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/KASUMI_S3_L001_R1_001.fastq.gz,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/KASUMI_S3_L001_R2_001.fastq.gz
+idMEI,s4,L001,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/MEI_S4_L001_R1_001.fastq.gz,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/MEI_S4_L001_R2_001.fastq.gz
+idJURKAT,s5,L001,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/JURKAT_S5_L001_R1_001.fastq.gz,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/JURKAT_S5_L001_R2_001.fastq.gz
+idBV,s6,L001,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/BV_S6_L001_R1_001.fastq.gz,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/BV_S6_L001_R2_001.fastq.gz
+idREH,s7,L001,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/REH_S7_L001_R1_001.fastq.gz,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/REH_S7_L001_R2_001.fastq.gz
+idAMD,s8,L001,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/AMD_S8_L001_R1_001.fastq.gz,/mnt/e/yiming/working/files/cell_line/repaired_fastq_file/AMD_S8_L001_R2_001.fastq.gz
